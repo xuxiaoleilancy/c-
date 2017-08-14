@@ -1,0 +1,2 @@
+cl /d1 reportAllClassLayout main.cpp
+cl /d1 reportSingleClassLayoutMyBase main.cpp

@@ -1,7 +1,7 @@
 CC = gcc
 XX = g++
 CFLAGS = -Wall -O -g
-TARGET = ./function_point
+TARGET = ./class_layout
 
 SOURCES = $(wildcard *.c *.cpp)
 OBJS = $(patsubst %.cpp,%.o,$(SOURCES))
